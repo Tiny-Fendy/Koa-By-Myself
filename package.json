@@ -1,0 +1,25 @@
+{
+  "name": "koa-by-myself",
+  "version": "1.0.0",
+  "description": "自己造koa",
+  "main": "src/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nodemon ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiny-Fendy/Koa-By-Myself.git"
+  },
+  "author": "fengdi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tiny-Fendy/Koa-By-Myself/issues"
+  },
+  "homepage": "https://github.com/Tiny-Fendy/Koa-By-Myself#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
